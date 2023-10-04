@@ -11,14 +11,15 @@ Ova To-Do aplikacija napravljena je koristeći Angular framework.
 
 Navigirajte u direktorij projekta.
 
-cd angular-todo-app
+    
+    cd angular-todo-app
 
 Instalirajte potrebne ovisnosti koristeći npm.
-
-npm install
+          
+        npm install
 
 Pokrenite aplikaciju
 
-ng serve
+      ng serve
 
 Otvorite web preglednik i idite na http://localhost:4200/ kako biste koristili aplikaciju.
