@@ -1,4 +1,4 @@
-# To-Do Aplikacija u Angularu
+# To-Do Aplikacija
 
 Ova To-Do aplikacija napravljena je koristeći Angular framework.
 
